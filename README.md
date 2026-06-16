@@ -1,2 +1,2 @@
 # shivam-demo
-This is first class for git and github
+This is first class for git and github.
